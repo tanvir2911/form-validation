@@ -1,0 +1,9 @@
+.validation-lbl {
+    color: red;
+    visibility: hidden;
+}
+
+.input-container {
+    margin-bottom: 5px;
+    padding: 5px;
+}
